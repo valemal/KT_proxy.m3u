@@ -1,5 +1,4 @@
-#EXTM3U 
-url-tvg="http://epg.it999.ru/edem.xml.gz"
+#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz"
 #PLAYLIST:Comtel
 #EXTINF:-1 tvg-name="ПЕРВЫЙ РЕСПУБЛИКАНСКИЙ" group-title="Республиканские" tvg-shift="0" tvg-logo="https://comtel-dnr.ru/iptv/images/pervyj_respublikanskij.png",ПЕРВЫЙ РЕСПУБЛИКАНСКИЙ
 http://100.67.0.10:8888/udp/225.15.4.80:2345
